@@ -5,6 +5,6 @@ end
 def using_insert (list_of_programming_language, another_language)
   list_of_programming_language.insert(4,another_language)
 end 
-def using_unique(array)
+def using_uniqu(array)
   array.uniq
 end 
