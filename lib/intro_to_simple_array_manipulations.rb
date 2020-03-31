@@ -17,7 +17,7 @@ def using_delete(instructors, string)
 instructors.delete("Steven")
 end 
 
-def using_delete_at(array)
+def using_delete_at(array,99)
   array.delete_at(2)
   
 end
